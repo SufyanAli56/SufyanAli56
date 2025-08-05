@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan,Punjab Rahim yar Khan</h3>
+<h3 align="center">A passionate MERN Stack Developer from Rahim Yar Khan, Pakistan</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
 </p>
 
-- 🔭 I’m currently working on **Frontend Projects**  
-- 🌱 I’m currently learning **Next.js and TypeScript**  
-- 👯 I’m looking to collaborate on **modern UI/UX-focused web apps**  
+- 🔭 I’m currently working on **MERN Stack Projects**  
+- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Deployment**  
+- 👯 I’m looking to collaborate on **full‑stack, scalable web applications**  
 - 📫 How to reach me: **sufyanalii1127@gmail.com**  
-- ⚡ Fun fact: *I'm a pixel-perfect UI freak 🤓*
+- ⚡ Fun fact: *I love connecting frontend & backend for seamless experiences 🚀*
 
 ---
 
-## 💡 Why Choose Me?
+## 💡 About Me
 
-> *“Good design is obvious. Great design is transparent.”* – Joe Sparano  
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
 >  
-> Your project deserves a developer who cares about every pixel and user interaction. I build sleek, scalable, and user-friendly web apps that connect brands with their audience effortlessly.  
->  
-> Let’s bring your ideas to life with precision and passion!
+> I’m a **MERN Stack Developer** who loves building **modern, responsive, and scalable applications**.  
+> From **MongoDB to React** and **Node.js to Express**, I create **end‑to‑end solutions** that look great and work flawlessly.  
 
 ---
 
@@ -52,10 +51,12 @@
   <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40"/>
   <img src="https://img.icons8.com/plasticine/100/react.png" alt="React" width="40"/>
   <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" width="40"/>
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind" width="40"/>
-  <img src="https://img.icons8.com/color/48/sass.png" alt="SASS" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/express.png" alt="Express.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="TailwindCSS" width="40"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="40"/>
+  <img src="https://img.icons8.com/color/48/sass.png" alt="SASS" width="40"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
   <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" width="40"/>
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40"/>
@@ -71,7 +72,6 @@
 > 🚀 *“Great things are done by a series of small things brought together.”* — Vincent Van Gogh
 
 <p align="center">
-  ⭐️ If you like my vibe, star my repos and let's connect!
+  ⭐️ If you like my work, star my repos and let's connect!
 </p>
-
 
